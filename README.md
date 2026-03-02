@@ -6,7 +6,7 @@
   />
   
   </div>
-<h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
+<h1 align="center"> 👋 Nazmul Hasan</h1>
 <h3 align="center">A passionate Frontent Developer from Bangladesh</h3>
 <br>
 

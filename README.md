@@ -10,15 +10,15 @@
 <h3 align="center">A passionate Frontent Developer from Bangladesh</h3>
 <br>
 
-🌱“Code with purpose, grow with passion, and inspire through action.”
+🌱“Code with purpose, grow with passion and inspire through action.”
 
-🎯 Mission 2026: Become a confident and impactful MERN Stack Developer, creating solutions that truly make a difference.
+🎯 Mission 2026: Become a impactful MERN Stack Developer and creating solutions that truly make a difference.
 
 ## 💡 What Drives Me
 
 🎨 Designing intuitive and engaging user interfaces.
 
-⚡️ Turning complex problems into simple, elegant solutions.
+⚡️ Turning complex problems into simple and elegant solutions.
 
 📚 Exploring emerging technologies and expanding my toolkit.
 

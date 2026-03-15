@@ -3,9 +3,10 @@
     src="cover.png" 
     alt="Nazmul Hasan" 
     style="width: 100%; height: 300px;" 
-  />
-  
-  </div>
+  >
+
+   </div>
+   
 <h1 align="center"> 👋 Nazmul Hasan</h1>
 <h3 align="center">A passionate Frontent Developer from Bangladesh</h3>
 <br>
